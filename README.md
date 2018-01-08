@@ -1,4 +1,4 @@
-# Amharic-Songs
+# Songs
 
 The following request permisions are demanded from the user,
 1.Internet to access the web
